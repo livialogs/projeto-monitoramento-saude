@@ -69,8 +69,6 @@ O projeto está organizado em duas pastas principais, uma para implementação d
 
 ### 3.2. Desempenho
 
-A análise de desempenho foi dividida em duas categorias:
-
 * **Desempenho de Execução:** A versão em C é objetivamente mais rápida. Por ser compilada para código de máquina nativo, a execução de laços e cálculos é feita com o mínimo de sobrecarga. Para uma aplicação com processamento intensivo, C seria é a escolha superior.
 
 * **Desempenho de Desenvolvimento:** A versão em Perl foi bem mais rápida de desenvolver. Tarefas como manipulação de strings, leitura de entradas e principalmente a escrita de dados formatados em arquivo exigem muito menos código em Perl do que em C. A tipagem dinâmica também contribuiu para um desenvolvimento mais ágil.
