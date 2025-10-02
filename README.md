@@ -10,7 +10,7 @@
 
 ## 1. Descrição do Projeto
 
-O tema que escolhi foi a criação de um sistema de gerenciamento para o automonitoramento de sintomas de depressão e ansiedade, inspirado nas escalas de triagem clínica PHQ-2 e GAD-2.
+Este é um sistema de gerenciamento para o automonitoramento de sintomas de depressão e ansiedade, inspirado nas escalas de triagem clínica PHQ-2 e GAD-2.
 
 A aplicação funciona de forma interativa, através de um menu no terminal, onde o usuário escolhe opções e responde a perguntas diretamente pelo teclado. Por essa característica, ele é o que chamamos de um sistema de linha de comando.
 
