@@ -10,7 +10,11 @@
 
 ## 1. Descrição do Projeto
 
-Este projeto é um sistema de linha de comando para o automonitoramento de sintomas de depressão e ansiedade. A aplicação foi desenvolvida utilizando o paradigma de programação imperativa em duas linguagens, que são **C** e **Perl**, com o objetivo de analisar e comparar suas características, vantagens e desvantagens na resolução do mesmo problema.
+O tema que escolhi foi a criação de um sistema de gerenciamento para o automonitoramento de sintomas de depressão e ansiedade, inspirado nas escalas de triagem clínica PHQ-2 e GAD-2.
+
+A aplicação funciona de forma interativa, através de um menu no terminal, onde o usuário escolhe opções e responde a perguntas diretamente pelo teclado. Por essa característica, ele é o que chamamos de um sistema de linha de comando.
+
+A aplicação foi desenvolvida utilizando o paradigma de programação imperativa em duas linguagens, que são **C** e **Perl**, com o objetivo de analisar e comparar suas características, vantagens e desvantagens na resolução do mesmo problema.
 
 O sistema apresenta um menu interativo, faz uma triagem inicial com base nas escalas GAD-2 (ansiedade) e PHQ-2 (depressão), calcula as pontuações, emite um alerta caso os resultados excedam um limiar pré-definido, permite a visualização do histórico de avaliações e salva cada novo resultado em um arquivo de dados no formato CSV.
 
