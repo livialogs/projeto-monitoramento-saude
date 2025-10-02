@@ -45,7 +45,7 @@ int main() {
                 realizarAvaliacao();
                 break;
             case 2:
-                verHistorico(); // Vê o historico aqui
+                verHistorico(); 
                 break;
             case 0:
                 printf("\nSaindo do programa...\n");
